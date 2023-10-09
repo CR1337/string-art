@@ -1,0 +1,6 @@
+*.o
+.venv/
+images/*
+main
+benchmark/benchmark
+__pychache__/
